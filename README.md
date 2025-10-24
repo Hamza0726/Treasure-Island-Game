@@ -6,3 +6,6 @@ You have two choices:
 Find the right way to the treasure and WIN THE GAME! or, 
 <br>
 Fall into a trap and die.
+<br>
+<br>
+NOTE: You can play this game on your Android device too! With the help of Pydroid available on Play Store.
